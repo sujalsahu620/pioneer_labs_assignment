@@ -1,48 +1,18 @@
-# SyLoan
 
-## Description
-
-Our three-member team has successfully developed a loan comparison platform, offering users the ability to seamlessly select the most optimal loan plan from a diverse range of categories. These categories include home loans, personal loans, business loans, car loans, and education loans, each sourced from top-tier banks. Our platform ensures a swift and hassle-free experience, empowering users to effortlessly identify the best-suited loan plan tailored to their specific needs.
-
-## Preview-
-<img width="1440" alt="Screenshot 2024-01-08 at 8 13 53 PM" src="https://github.com/sujalsahu620/loanhub/assets/139754187/67c4c867-3f34-43af-8900-32e7f3c9129b">
-### Tech Used
-
-- React
-- React Router
-- SwiperJS
-- RazorPay
-- Json Server
-
-### Team Member
-
-- Sujal Sahu
-- Harsh Raj
-- Ashutosh kumar
-
-# Work Description
-
-## Home Page
-<img width="1440" alt="Screenshot 2024-01-08 at 8 14 28 PM" src="https://github.com/sujalsahu620/loanhub/assets/139754187/146c6b39-60f7-434e-911d-756e8b818416">
-
-## Login Page
-
-![image]()
-
-## SignUp Page
-
-![image]()
-
-## Loan Page
-<img width="1440" alt="Screenshot 2024-01-08 at 8 14 40 PM" src="https://github.com/sujalsahu620/loanhub/assets/139754187/be4e3779-8784-4823-8078-5838965f3d59">
+# Pioneer Labs Frontend Assignment
 
 
-## Details Page
+Reactify Dashboard is a sleek frontend project powered by React.js, Axios, React Fetch, Module CSS, and Recharts. Experience efficient data fetching, encapsulated styling, and stunning data visualization in a responsive design.
 
-<img width="1440" alt="Screenshot 2024-01-08 at 8 15 17 PM" src="https://github.com/sujalsahu620/loanhub/assets/139754187/29241e4e-dc4a-483b-800a-0af67690f7b8">
+**Key Features**
 
+- React.js Framework: Modular and scalable development with React.js.
+- Efficient Data Handling: Axios and React Fetch for seamless data fetching.
+- Encapsulated Styling: Module CSS ensures organized and customizable styling.
+- Stunning Visualization: Recharts for interactive and beautiful data presentation.
+- Responsive Design: Enjoy a seamless experience across devices and screen sizes.
 
-## Payment Page
+**Components**
 
-<img width="859" alt="Screenshot 2024-01-08 at 8 18 39 PM" src="https://github.com/sujalsahu620/loanhub/assets/139754187/4941f8b3-fe35-4c89-a223-7051f2944865">
-
+- Side Navbar
+<img src='https://mail.google.com/mail/u/0?ui=2&ik=31f093b0af&attid=0.1&permmsgid=msg-a:r-8886128965583911152&th=18e7f6f4b07e3207&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ95-H9Zudi6jYQQtfjOo8J2QKLMvKo0bf1dUCqk4VpI8PlP5PqknBedsIHYQEwc5zyRWLxLCNCxubqLc4RU3ijAklC7USuFNtj9-kSXSdoAO96ojDx7sK06KPw&disp=emb&realattid=ii_lu9nqh7z0'/>
