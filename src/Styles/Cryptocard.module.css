@@ -1,6 +1,9 @@
 #parent_container {
+    width: 100%;
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
+    margin: 0 auto;
 }
 
 #card_container {
@@ -12,62 +15,118 @@
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
-    background: rgb(238,174,202);
-    background: linear-gradient(207deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background: rgb(238, 174, 202);
+    background: linear-gradient(180deg, rgb(12, 120, 126) 0%, rgb(98, 213, 239) 100%);
+}
+
+#card_container>div>img {
+    width: 150px;
+    margin: 0px auto;
+}
+
+#card_container hr {
+    width: 30%;
+    border: 2px solid #f79d0c;
+    border-radius: 10px;
+}
+
+#card_container>div>div {
+    display: flex;
+    justify-content: space-between;
 }
 
 #description {
-    margin: 10px 0;
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, #f4ed8d, #f79d0c);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    background-clip: text;
     text-transform: uppercase;
-    font-size: 25px;
+    font-size: 21px;
     font-weight: 700;
-}
-#code{
-    color: #019802;
-    font-size: 20px;
     margin: 10px 0;
-    font-weight: 500;
+    /* background-color: #f3ec78;
+    background-image: linear-gradient(#f3ec78, #af4261);
+    background-image: conic-gradient(#f3ec78, #af4261); */
 }
-#code>span{
-    color: rgb(0, 0, 0);
-    font-weight: 600;
-    text-align: end;
-}
-#text{
-    color: #019802;
-    display: flex;
-    margin: 10px 0;
-    font-weight: 400;
-    font-size: 20px;
-}
-#text>span{
-    color: rgb(0, 0, 0);
-    font-weight: 600;
-}
-#description_container{
-    padding: 20px;
 
-}
-#a_text{
-    color: #535353;
-    font-size: 20px;
-    margin: 10px 0;
-    font-weight: 400;
-}
-#a_text>span{
+
+
+#code {
     color: #000000;
     font-size: 20px;
     margin: 10px 0;
     font-weight: 500;
 }
-#desc_text{
-    width: 70%;
+
+#code>span {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, #d7cb28, #f09962);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 600;
+    text-align: end;
+
+}
+
+#text {
+    display: flex;
+    margin: 10px 0;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+#text>span {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, #f4ed8d, #efb173);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 600;
+}
+
+#description_container {
+    padding: 20px;
+    margin: 20px;
+    max-width: 1050px;
+    border-radius: 10px;
+    background: rgb(238, 174, 202);
+    background: linear-gradient(180deg, rgb(114, 224, 230) 0%, rgb(98, 213, 239) 100%);
+}
+
+#a_text {
+    color: #535353;
+    font-size: 20px;
+    margin: 10px 0;
+    font-weight: 500;
+}
+
+#a_text>span {
+    color: #000000;
+    font-size: 23px;
+    margin: 10px 0;
+    font-weight: 520;
+}
+
+#desc_text {
     color: #535353;
     font-size: 20px;
     margin: 10px 0;
     font-weight: 400;
 }
-#desc_text>span{
+
+#desc_text>span {
     color: #000000;
     margin: 10px 0;
     font-weight: 400;

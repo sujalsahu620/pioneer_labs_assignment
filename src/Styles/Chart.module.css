@@ -1,3 +1,4 @@
-#parent_container{
+#parent_container {
     padding: 20px;
+    flex-shrink: 0;
 }
