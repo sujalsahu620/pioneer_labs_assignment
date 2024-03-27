@@ -5,8 +5,8 @@ import PopulationPage from './PopulationPage'
 export const  HomePage = () => {
   return (
     <div >
-      <PopulationPage/>
       <CryptoPage/>
+      <PopulationPage/>
     </div>
   )
 }
