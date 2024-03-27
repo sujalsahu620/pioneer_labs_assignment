@@ -11,6 +11,7 @@ export const Navbar = () => {
   useEffect(() => {
     const handleResize = () => {
       const screenWidth = window.innerWidth;
+      console.log(screenWidth)
       if (screenWidth <= 700) {
         setContainerWidth('35px');
         setContainerHeight('35px');

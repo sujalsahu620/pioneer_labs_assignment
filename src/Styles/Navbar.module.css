@@ -1,10 +1,13 @@
 #main_container {
+    position: sticky;
+    top: 0;
     flex-shrink: 0;
     overflow: hidden;
     transition: width 1s, height .94s;
     background: rgb(0, 0, 0);
     background: linear-gradient(207deg, rgb(255, 255, 255) 0%, rgb(129, 129, 129) 100%);
 }
+
 #main_container>div {
     display: flex;
     width: 100%;
@@ -12,7 +15,8 @@
 }
 
 #main_container>div>svg {
-    transition:.5s; /* Transition duration */
+    transition: .5s;
+    /* Transition duration */
     font-size: 35px;
 }
 
@@ -33,14 +37,16 @@ a>svg {
     margin: auto 0px;
 }
 
-#container, #containerlargescreen {
+#container,
+#containerlargescreen {
     text-decoration: none;
     list-style-type: none;
     margin-top: 50px;
     padding-left: 30px;
 }
 
-#container>li,#containerlargescreen>li {
+#container>li,
+#containerlargescreen>li {
     width: 300px;
     font-size: 23px;
     margin: 15px 0;
@@ -51,6 +57,7 @@ a>svg {
     #container {
         display: none;
     }
+
     #main_container>div {
         position: fixed;
     }
@@ -60,6 +67,7 @@ a>svg {
     #containerlargescreen {
         display: none;
     }
+
     #main_container>div {
         position: fixed;
     }

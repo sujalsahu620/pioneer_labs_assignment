@@ -17,6 +17,8 @@ export const CryptoPage = () => {
 
   return (
     <div>
+      <h1 style={{ fontSize: "30px", textAlign: "center", fontWeight: "600", margin: "15px 0", textTransform: "uppercase" }}>Crypto Currency Price</h1>
+      <hr style={{ width: "70%", border: "2px solid black", margin: "5px auto" }} />
       {isLoading && <p>Loading...</p>}
       {data && <CryptoCard data={data} />}
     </div>
