@@ -1,0 +1,20 @@
+#container{
+    text-align: center;
+}
+#container>h1{
+    font-weight: 500;
+    font-size: larger;
+}
+#container>p{
+    width: 50%;
+    margin: 10px auto;
+}
+#container>hr{
+    width: 30%;
+    margin:10px auto;
+}
+#container>div{
+    width: fit-content;
+    margin: 10px auto;
+    text-align: left;
+}
