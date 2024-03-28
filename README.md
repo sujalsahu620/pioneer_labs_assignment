@@ -20,6 +20,7 @@ Reactify Dashboard is a sleek frontend project powered by React.js, Axios, React
 <img src='./src/Images/home0.png'/>
 
 **Side Navbar**
+
 - Responsive
 - Indicates the active Page
 - Smooth Animations
