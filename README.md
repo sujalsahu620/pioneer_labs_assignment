@@ -17,7 +17,7 @@ Reactify Dashboard is a sleek frontend project powered by React.js, Axios, React
 
 **Home Page**
 - Features all the Components Created in this app
-<img src='./src/Images/home.png'/>
+<img src='./src/Images/home0.png'/>
 
 **Side Navbar**
 - Responsive
@@ -25,13 +25,13 @@ Reactify Dashboard is a sleek frontend project powered by React.js, Axios, React
 - Smooth Animations
 - Retracts when the hamburger icon Is Clicked
 
-<img src='./src/Images/navbar.png'/>
+<img src='./src/Images/navbar0.png'/>
 
 **Crypto Prices Page**
 - Responsive Design with flex
 - Gradient Finish
 - Responsive
-<img src='./src/Images/crypto.png'/>
+<img src='./src/Images/crypto0.png'/>
 
 **Population Chart Page**
 - Chart Made Using Recharts
@@ -39,5 +39,5 @@ Reactify Dashboard is a sleek frontend project powered by React.js, Axios, React
 - Clear Data Visualisation
 - Responsive
 
-<img src='./src/Images/population.png'/>
+<img src='./src/Images/population0.png'/>
 
