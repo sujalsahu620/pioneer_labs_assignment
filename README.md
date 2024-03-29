@@ -2,6 +2,7 @@
 # Pioneer Labs Frontend Assignment
 
 Deployed link - https://pioneer-labs-assignment.vercel.app/
+Explanation Video Link - https://drive.google.com/file/d/1zO_9tDDuhEMoR1EFR20OmylHzuqYZ03p/view?usp=sharing
 
 Reactify Dashboard is a sleek frontend project powered by React.js, Axios, React Fetch, Module CSS, and Recharts. Experience efficient data fetching, encapsulated styling, and stunning data visualization in a responsive design.
 
